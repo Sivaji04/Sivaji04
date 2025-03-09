@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/lucifersivaji" target="blank"><img src="https://img.shields.io/twitter/follow/lucifersivaji?logo=twitter&style=for-the-badge" alt="lucifersivaji" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce application](https://sivajiecomweb.ccbp.tech/)
+- 🔭 I’m currently working on [Chat Application](https://sivajiecomweb.ccbp.tech/)
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.ccbp.in/portfolio?uid=e19292f6747f402595e023fd14ebb877](https://www.ccbp.in/portfolio?uid=e19292f6747f402595e023fd14ebb877)
+- 👨‍💻 All of my projects are available at [https://sivajisudulaportfolio.netlify.app/](https://sivajisudulaportfolio.netlify.app/)
 
 - 💬 Ask me about **reactjs, js, nodejs**
 
 - 📫 How to reach me **sudula444@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N-5Pvb3UC2CAdYFht_TfwN2C81o-A6JG/view](https://drive.google.com/file/d/1N-5Pvb3UC2CAdYFht_TfwN2C81o-A6JG/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GJaMB6vOuLxyWO0hTZa_EAewylbcacXH/view](https://drive.google.com/file/d/1GJaMB6vOuLxyWO0hTZa_EAewylbcacXH/view)
 
 - ⚡ Fun fact **I think i am a swaggar**
 
