@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1GJaMB6vOuLxyWO0hTZa_EAewylbcacXH/view](https://drive.google.com/file/d/1GJaMB6vOuLxyWO0hTZa_EAewylbcacXH/view)
 
-- ⚡ Fun fact **I think i am a swaggar**
+- ⚡ Fun fact **I am Funny Sometimes**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
